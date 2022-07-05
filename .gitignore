@@ -5,7 +5,7 @@
 /*.code-workspace
 /bundles
 .DS_STORE
-.env
+.env.staging
 .eslintrc.*
 build
 .vscode
